@@ -1,0 +1,5 @@
+jupyterhub==2.2.2
+SQLAlchemy==1.4.32
+tornado==6.1
+Werkzeug==2.0.3
+PyMySQL==1.0.2
